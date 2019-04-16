@@ -1,0 +1,10 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "feature": {
+      "description": "Generates a full feature set to begin development",
+      "factory": "./feature/index#feature",
+      "schema": "./feature/schema.json"
+    }
+  }
+}
