@@ -10,6 +10,7 @@ have to install it locally and "link" the package.
 1. Clone the repository to your local machine.
 ```
 git clone https://github.com/mwagz/feature-schematic
+cd feature-schematic
 ```
 
 2. Install package dependencies
